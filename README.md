@@ -74,6 +74,7 @@ python3 test.py --model fcn
 - [ ] Mask_RCNN
 - [ ] Evauate methods(calc mIoU)
 
+Cite
 ## Contact us!
 Anthony Kim: artit.anthony@gmail.com
 
