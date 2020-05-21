@@ -66,16 +66,3 @@ python3 test.py --model fcn
 | --model | Model to test. \['fcn', 'unet', 'pspnet'\] |
 | --img_path | The image path you want to test |
 
-## Todo
-- [x] FCN
-- [x] Unet
-- [x] PSPnet
-- [ ] DeepLab_v3
-- [ ] Mask_RCNN
-- [ ] Evauate methods(calc mIoU)
-
-Cite
-## Contact us!
-Anthony Kim: artit.anthony@gmail.com
-
-TaeKang Woo: wtk1101@gmail.com
